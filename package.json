@@ -1,0 +1,17 @@
+{
+  "name": "f2-gcanvas-wrapper",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morelearn1990/F2-gcanvas-wrapper.git"
+  },
+  "author": "morelearn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/morelearn1990/F2-gcanvas-wrapper/issues"
+  },
+  "homepage": "https://github.com/morelearn1990/F2-gcanvas-wrapper#readme",
+  "description": ""
+}
