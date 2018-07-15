@@ -13,5 +13,9 @@
     "url": "https://github.com/morelearn1990/F2-gcanvas-wrapper/issues"
   },
   "homepage": "https://github.com/morelearn1990/F2-gcanvas-wrapper#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "@antv/f2": "^3.1.15",
+    "gcanvas.js": "0.0.8"
+  }
 }

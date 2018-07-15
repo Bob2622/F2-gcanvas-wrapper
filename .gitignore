@@ -1,0 +1,22 @@
+Created by IDE
+.DS_Store
+.idea/
+*.iml
+
+docs
+
+.*
+!.gitignore
+!.eslintrc
+!.editorconfig
+!.babelrc
+
+# Node
+eros-widget/
+logs
+*.log
+npm-debug.log*
+.npm
+node_modules
+dist
+bower_components
