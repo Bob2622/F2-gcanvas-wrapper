@@ -6,7 +6,7 @@ import {
 
 let F2Weex = Object.create(null)
 
-F2Weex.install = (Vue, options) => {
+F2Weex.install = (Vue) => {
   Vue.prototype.$createChart = function (ref, opt) {
     let gcanvasRef = enable(ref, {
       bridge: WeexBridge
