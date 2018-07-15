@@ -25,7 +25,7 @@ F2.Util.measureText = function (text, font) {
 };
 
 F2.Util.createEvent = function (event, chart) {
-  const pixelRatio = chart.get('pixelRatio') || 1;
+  // const pixelRatio = chart.get('pixelRatio') || 1;
   const type = event.type;
   let x = 0;
   let y = 0;
